@@ -1,5 +1,10 @@
 <div align="center">
-<h1 align="center">Hi, I'm Holmand 👋</h1>
+<h1 align="center">Hi there!, I'm Holmand 👋</h1>
+![HolmandDev](banner.png)
+<p align="center">
+    <a href="https://twitter.com/holmand21"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/holmandvillalba"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
 </div>
 
 ## About me
